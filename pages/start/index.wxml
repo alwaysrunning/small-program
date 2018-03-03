@@ -1,0 +1,61 @@
+<view class="mod-head">
+	<view class="logo" bindtap="bindViewTap">
+		<image class="logo-pic" src="/assets/images/start/logo.jpg"></image>
+	</view>
+	<view class="telephone">
+		<view class="circle"></view>
+		<view class="telephone-number">4000066237</view>
+	</view>
+</view>
+
+<image class="promote mt40" src="/assets/images/start/promote.jpg"></image>
+
+<view class="mod-problem">
+	<view class="title">你是否有遇到这样的问题？</view>
+	<view class="point">
+		<view class="point-lf">
+			<view class="nums">01</view>
+			<view class="dec">PROBLEM</view>
+		</view>
+		<view class="point-rg">
+			想用互联网开拓业务，花钱建网站、做推广，但效果不佳！
+		</view>
+	</view>
+	<view class="point">
+		<view class="point-lf">
+			<view class="nums">02</view>
+			<view class="dec">PROBLEM</view>
+		</view>
+		<view class="point-rg">
+			以为做电商就是开淘宝，思维太局限，遇到瓶颈无法突破。
+		</view>
+	</view>
+	<view class="point">
+		<view class="point-lf">
+			<view class="nums">03</view>
+			<view class="dec">PROBLEM</view>
+		</view>
+		<view class="point-rg">
+			不知道如何搭建团队，优化销售流程，让团队高效率工作
+		</view>
+	</view>
+	<view class="point">
+		<view class="point-lf">
+			<view class="nums">04</view>
+			<view class="dec">PROBLEM</view>
+		</view>
+		<view class="point-rg">
+			眼睁睁看着网络上的生意被同行一个个抢走，不知所措。
+		</view>
+	</view>
+	<view class="point">
+		<view class="point-lf">
+			<view class="nums">05</view>
+			<view class="dec">PROBLEM</view>
+		</view>
+		<view class="point-rg">
+			想通过学习提升自己网络营销的技能，但是找不到好机构
+		</view>
+	</view>
+</view>
+

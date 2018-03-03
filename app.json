@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/start/index",
+    "pages/h5/index"
+  ],
+  "window": {
+    "backgroundColor": "#fff",
+    "backgroundTextStyle": "dark"
+  },
+  "debug": false
+}
