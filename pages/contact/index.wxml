@@ -1,0 +1,17 @@
+<view class="mod-block">
+	<view class="title">联系方式</view>
+	<view class="ctn">
+		微信: o5205870
+	</view>
+	<view class="ctn">
+		QQ: 155320145
+	</view>
+	<view class="ctn">
+		联系邮箱: 155320145@qq.com
+	</view>
+</view>
+
+<view class="mod-block" style="padding:50px 0 50px; margin:10px 0">
+	<image mode="aspectFit" style="width: 100%;" src="/assets/images/contact.jpg" ></image>
+</view>
+

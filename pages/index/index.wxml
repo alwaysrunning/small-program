@@ -1,0 +1,25 @@
+<view class="container">
+    <view class="swiper-container">
+        <swiper class="swiper_box" 
+                    autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" bindchange="swiperchange">
+            <block wx:for="{{banners}}" wx:key="id">
+                <swiper-item>
+                    <image bindtap="tapBanner" src="{{item.picUrl}}" class="slide-image" width="750rpx" />
+                </swiper-item>
+            </block>
+        </swiper>
+        <view class="dots">  
+            <block wx:for="{{banners}}" wx:key="unique">  
+                <view class="dot{{index == swiperCurrent ? ' active' : ''}}"></view>  
+            </block>  
+        </view>  
+    </view>
+    <view class="mod-weixin">
+        每日打卡
+    </view>
+    <view class="mould" wx:for="{{units}}" wx:key="id" wx:for-item="unit">
+        <image mode="widthFix" style="width: 100%;" src="{{unit.picUrl}}"  />
+        <view class="describ">{{unit.title}}</view>
+        <view class="time">{{unit.dateAdd}} 发布</view>
+    </view>
+</view>
