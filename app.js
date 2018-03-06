@@ -5,7 +5,6 @@ import Config from 'config/config'
 
 App({
 	onLaunch() {
-		
 	},
 	onShow() {
 		console.log('onShow')
@@ -20,6 +19,7 @@ App({
 			return this.wx.getUserInfo()
 		})
 		.then(data => {
+			console.log(data,888)
 			this.globalData.userInfo = data.userInfo
 			return this.globalData.userInfo
 		})

@@ -52,7 +52,10 @@ Page({
             })
         }).catch(err=>{
             console.log(err,222)
-        }) 
+        })
+        App.getUserInfo().then(rs=>{
+            console.log(rs,1111)
+        })
     },
 
     onShow() {},
