@@ -1,6 +1,5 @@
 .mod-block{
 	width: 100%;
-	overflow: hidden;
 	padding: 20rpx;
 	box-sizing:border-box;
 	font-size: 34rpx;

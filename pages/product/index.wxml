@@ -1,84 +1,86 @@
-<view class="mod-block">
-	<view class="title">产品简介</view>
-	<view class="ctn">
-		唯蜜瘦 是将我们有多年实践经验的穴位按摩方法加以改良，且为了方便外地客户减肥而特制的一款减肥延伸产品，不节食不运动不打针不吃药，一盒轻松享瘦5~15斤。一直以来我们倡导合理饮食，健康减肥，轻松享瘦不反弹！
+<scroll-view class="scrollView"  scroll-y="true">
+	<view class="mod-block">
+		<view class="title">产品简介</view>
+		<view class="ctn">
+			唯蜜瘦 是将我们有多年实践经验的穴位按摩方法加以改良，且为了方便外地客户减肥而特制的一款减肥延伸产品，不节食不运动不打针不吃药，一盒轻松享瘦5~15斤。一直以来我们倡导合理饮食，健康减肥，轻松享瘦不反弹！
+		</view>
+		<view class="ctn">
+			唯蜜瘦原理是通过外敷型中药分解体内脂肪，再通过名贵配方精油和搭配的穴位按摩手法（一个部位操作简单）物理缩小胃的容量，在瘦身的同时达到养成科学饮食的好习惯。
+		</view>
+		<view class="ctn">
+			产品礼盒内容为：热敷腰带一根、中药包两包（小包开穴包、大包封穴包）塑身精油一瓶。
+		</view>
 	</view>
-	<view class="ctn">
-		唯蜜瘦原理是通过外敷型中药分解体内脂肪，再通过名贵配方精油和搭配的穴位按摩手法（一个部位操作简单）物理缩小胃的容量，在瘦身的同时达到养成科学饮食的好习惯。
+	<view class="mod-block">
+		<view class="title">使用方法</view>
+		<view class="ctn">
+			每天早晚各一次，不限具体时间，早上早餐前空腹热敷，晚上睡觉前热敷即可。每次半小时，将中药包置于腰带网袋，然后将腰带系在腰上，中药包敷在肚脐位置，插上电源，热敷半小时。
+		</view>
+		<view class="ctn">
+			早晚将精油2~3滴滴点在穴位上（穴位按摩视频可问代理销售索取），用老师教的手法按摩，直至精油充分吸收。
+		</view>
+		<image mode="scaleToFill" style="width: 100%; height: 250px; background-color: #eeeeee;" src="https://si.geilicdn.com/bj-wd-1176267612-1514890834398-248478595_1080_1440.jpg?w=1080&h=1080" ></image>
+		<image mode="scaleToFill" style="width: 100%; height: 250px; background-color: #eeeeee;" src="https://si.geilicdn.com/bj-wd-1176267612-1512222186149-958575097_1080_810.jpg?w=1080&h=1080" ></image>
+		
 	</view>
-	<view class="ctn">
-		产品礼盒内容为：热敷腰带一根、中药包两包（小包开穴包、大包封穴包）塑身精油一瓶。
+	<view class="mod-block">
+		<view class="title">产品成分</view>
+		<view class="ctn">
+			产品含有人参，红花，山楂，药用大黄，膜荚黄芪，罗布麻。
+		</view>
 	</view>
-</view>
-<view class="mod-block">
-	<view class="title">使用方法</view>
-	<view class="ctn">
-		每天早晚各一次，不限具体时间，早上早餐前空腹热敷，晚上睡觉前热敷即可。每次半小时，将中药包置于腰带网袋，然后将腰带系在腰上，中药包敷在肚脐位置，插上电源，热敷半小时。
+	<view class="mod-block">
+		<view class="title">零副作用</view>
+		<view class="ctn">
+			质检报告齐全，在药监局备案。支持任意第三方机构或者医院检测，有任何副作用十倍赔偿。
+		</view>
+		<image mode="scaleToFill" style="width: 100%; height: 250px; background-color: #eeeeee;" src="https://si.geilicdn.com/bj-wd-1176267612-1514890833898-199980824_1080_1343.jpg?w=1080&h=1080" ></image>
+		<image mode="scaleToFill" style="width: 100%; height: 250px; background-color: #eeeeee;" src="https://si.geilicdn.com/bj-wd-1176267612-1514890834575-694294515_1000_740.jpg?w=1080&h=1080" ></image>
+		<image mode="scaleToFill" style="width: 100%; height: 250px; background-color: #eeeeee;" src="https://si.geilicdn.com/bj-wd-1176267612-1514890836616-1774098043_878_738.jpg?w=1080&h=1080" ></image>
+		<image mode="scaleToFill" style="width: 100%; height: 250px; background-color: #eeeeee;" src="https://si.geilicdn.com/bj-wd-1176267612-1514890834975-1303951572_930_752.jpg?w=1080&h=1080" ></image>
 	</view>
-	<view class="ctn">
-		早晚将精油2~3滴滴点在穴位上（穴位按摩视频可问代理销售索取），用老师教的手法按摩，直至精油充分吸收。
+	<view class="mod-block">
+		<view class="title">唯蜜瘦区别于其他传统针灸和火罐的方法：</view>
+		<view class="ctn">
+			我们是必须要吃主食，不要因为不饿就不吃饭，也不要刻意说不去吃肉。这些都可以，我们只希望你拥有一个正常健康的饮食习惯。
+		</view>
+		<view class="ctn">
+			日常饮食中红烧肉、排骨、牛肉等等这些都可以吃，只是不要吃对身体有害的腊鱼腊肉坛子里面腌制的食品，这样本来对身体也不好
+		</view>
+		<view class="ctn">
+			用了唯蜜瘦后，最直接的感觉是你很容易有饱腹感，吃东西吃一点就饱，如果本来只能吃半碗饭，结果吃了一碗你就会感觉撑得想吐。
+		</view>
 	</view>
-	<image mode="scaleToFill" style="width: 100%; height: 250px; background-color: #eeeeee;" src="https://si.geilicdn.com/bj-wd-1176267612-1514890834398-248478595_1080_1440.jpg?w=1080&h=1080" ></image>
-	<image mode="scaleToFill" style="width: 100%; height: 250px; background-color: #eeeeee;" src="https://si.geilicdn.com/bj-wd-1176267612-1512222186149-958575097_1080_810.jpg?w=1080&h=1080" ></image>
-	
-</view>
-<view class="mod-block">
-	<view class="title">产品成分</view>
-	<view class="ctn">
-		产品含有人参，红花，山楂，药用大黄，膜荚黄芪，罗布麻。
+	<view class="mod-block">
+		<view class="title">关于饮食：</view>
+		<view class="ctn">
+			当您拿到这盒产品时，如果想瘦得快一点，比如一天一斤，那需要适当配合我们的饮食要求，减肥期间早餐不要吃汤粉汤面（你不要觉得难受：减完后随便你吃）
+		</view>
+		<view class="ctn">
+			中餐：只要是新鲜菜，不管是荤菜还是素菜都可以，千万不要不吃米饭，也千万不要故意不吃肉！正常饮食不喝汤，半碗饭半碗菜（注意是使用唯蜜瘦后你只能吃得进这么多）
+		</view>
+		<view class="ctn">
+			晚餐：因为三天后不会有饥饿感，且由于开穴了，过午不食对你的身体肠道都是一个排空，下午到晚餐可以选择吃一个苹果或者西红柿几颗或者黄瓜一根。
+		</view>
+		<view class="ctn">
+			注意⚠️拿到唯蜜瘦后不管你选择哪一种速度去瘦，由于用了开穴包以及开穴手法，前三天请一定按照要求来，不要吃晚饭！不要喝汤！
+		</view>
+		<view class="ctn">
+			如果你觉得自己是不是饿瘦的，你可以在家先试试，看看不吃晚饭能不能瘦，能瘦多少，不吃的时候难不难受饿不饿，试过后你就明白唯蜜瘦的优点在哪里！
+		</view>
+		<view class="ctn">
+			月经期停用，因为中药有活血成分，哺乳期使用建议不喝汤。备孕女性可以使用，怀孕以后停用即可，药包有活血化瘀排湿的功效。
+		</view>
+		<view class="ctn">
+			月经期间穴位按摩可以继续，中药和精油停用就可以了。可以早晚120次按摩。
+		</view>
 	</view>
-</view>
-<view class="mod-block">
-	<view class="title">零副作用</view>
-	<view class="ctn">
-		质检报告齐全，在药监局备案。支持任意第三方机构或者医院检测，有任何副作用十倍赔偿。
+	<view class="mod-block">
+		<view class="ctn">
+			用之前走过的众多弯路告诉你，亲测，有效
+		</view>
+		<view class="ctn">
+			不瘦你找我！！瘦了就靠你做广告了
+		</view>
 	</view>
-	<image mode="scaleToFill" style="width: 100%; height: 250px; background-color: #eeeeee;" src="https://si.geilicdn.com/bj-wd-1176267612-1514890833898-199980824_1080_1343.jpg?w=1080&h=1080" ></image>
-	<image mode="scaleToFill" style="width: 100%; height: 250px; background-color: #eeeeee;" src="https://si.geilicdn.com/bj-wd-1176267612-1514890834575-694294515_1000_740.jpg?w=1080&h=1080" ></image>
-	<image mode="scaleToFill" style="width: 100%; height: 250px; background-color: #eeeeee;" src="https://si.geilicdn.com/bj-wd-1176267612-1514890836616-1774098043_878_738.jpg?w=1080&h=1080" ></image>
-	<image mode="scaleToFill" style="width: 100%; height: 250px; background-color: #eeeeee;" src="https://si.geilicdn.com/bj-wd-1176267612-1514890834975-1303951572_930_752.jpg?w=1080&h=1080" ></image>
-</view>
-<view class="mod-block">
-	<view class="title">唯蜜瘦区别于其他传统针灸和火罐的方法：</view>
-	<view class="ctn">
-		我们是必须要吃主食，不要因为不饿就不吃饭，也不要刻意说不去吃肉。这些都可以，我们只希望你拥有一个正常健康的饮食习惯。
-	</view>
-	<view class="ctn">
-		日常饮食中红烧肉、排骨、牛肉等等这些都可以吃，只是不要吃对身体有害的腊鱼腊肉坛子里面腌制的食品，这样本来对身体也不好
-	</view>
-	<view class="ctn">
-		用了唯蜜瘦后，最直接的感觉是你很容易有饱腹感，吃东西吃一点就饱，如果本来只能吃半碗饭，结果吃了一碗你就会感觉撑得想吐。
-	</view>
-</view>
-<view class="mod-block">
-	<view class="title">关于饮食：</view>
-	<view class="ctn">
-		当您拿到这盒产品时，如果想瘦得快一点，比如一天一斤，那需要适当配合我们的饮食要求，减肥期间早餐不要吃汤粉汤面（你不要觉得难受：减完后随便你吃）
-	</view>
-	<view class="ctn">
-		中餐：只要是新鲜菜，不管是荤菜还是素菜都可以，千万不要不吃米饭，也千万不要故意不吃肉！正常饮食不喝汤，半碗饭半碗菜（注意是使用唯蜜瘦后你只能吃得进这么多）
-	</view>
-	<view class="ctn">
-		晚餐：因为三天后不会有饥饿感，且由于开穴了，过午不食对你的身体肠道都是一个排空，下午到晚餐可以选择吃一个苹果或者西红柿几颗或者黄瓜一根。
-	</view>
-	<view class="ctn">
-		注意⚠️拿到唯蜜瘦后不管你选择哪一种速度去瘦，由于用了开穴包以及开穴手法，前三天请一定按照要求来，不要吃晚饭！不要喝汤！
-	</view>
-	<view class="ctn">
-		如果你觉得自己是不是饿瘦的，你可以在家先试试，看看不吃晚饭能不能瘦，能瘦多少，不吃的时候难不难受饿不饿，试过后你就明白唯蜜瘦的优点在哪里！
-	</view>
-	<view class="ctn">
-		月经期停用，因为中药有活血成分，哺乳期使用建议不喝汤。备孕女性可以使用，怀孕以后停用即可，药包有活血化瘀排湿的功效。
-	</view>
-	<view class="ctn">
-		月经期间穴位按摩可以继续，中药和精油停用就可以了。可以早晚120次按摩。
-	</view>
-</view>
-<view class="mod-block">
-	<view class="ctn">
-		用之前走过的众多弯路告诉你，亲测，有效
-	</view>
-	<view class="ctn">
-		不瘦你找我！！瘦了就靠你做广告了
-	</view>
-</view>
+</scroll-view>
